@@ -10,8 +10,8 @@ Analysis workflow for ARGs identification on metagenomic data
 4. Abundance of the ARGs subtypes in digester samples(the color intensity in each panel shows the ARGs/16s rRNA gene copy number, as indicators of the relative abundance of resistance genes within the bacterial population). For the visualization size limit, normalized abundance  greater than 0.2 were displayed. MLS denotes macrolide-lincosamide-streptogramin. 
 <img src="Figure/Figure4_heatmap.png" width=600 height=200>
 5. Relative abundance of microbial community. (a) Relative consistent microbial community among the ARG carried contigs at the phylum level. The inner circle represents co-digestion samples, while the outer circle represents mono digestion samples.  (b) Microbial community of digesters.
-<img src="Figure/Figure5_contrast.png" width=600 height=300>
+<img src="Figure/Figure5_contrast.png" width=600 height=200>
 6. Distribution of the predicted proteins in the functional class of defense mechanisms in both digestions. Metagenomic data was annotated against the eggNOG database at a cutoff of E-value < 10−5. D represents the co-digestion, while C is mono-digestion.
 <img src="Figure/Figure6_eggNOGgene.png" width=800 height=400>
 7. Network analysis of the correlation between ARG groups and potential taxonomical origin(ARB) in the digester samples. (The colorful circle nodes stand for various ARG groups (each color stands for one ARG category), while the white squared nodes indicate diverse microorganisms, labeled as ‘genus’ in the legend. Microorganism nodes listed were all at genus/species/strain level. The node size shows the abundance of ARGs and microorganisms. A connection represents the correlation between the ARG group and potential ARB). C stands for mon-digestion, while D stands for co-digestion.
-<img src="Figure/Figure7_network.png" width=900 height=600>
+<img src="Figure/Figure7_network.png" width=900 height=500>
