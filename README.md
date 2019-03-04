@@ -4,7 +4,7 @@ Describe the analysis of ARGs part from WGS data
 Analysis workflow for ARGs identification on metagenomic data
 <img src="Figure/Figure1_workflow.png" width=600 height=300>
 2. Distributions of ARG types detected in digesters. MLS denotes macrolide-lincosamide-streptogramin. The outmost circle represents the gene number of ARG types. The length of the bars on the outer ring represented ARG gene found in two digesters (grey bars of the diagram, labeled as C and D ) and correlates the gene number of respective ARG types in the digesters(colorful bars). Each color represents an ARG type. 
-<img src="Figure/Figure2_ciscoplot.png" width=300 height=200>
+<img src="Figure/Figure2_ciscoplot.png" width=400 height=400>
 3. Venn Diagram for the ARGs detected among two digesters. The number of unique ARG subtypes in C digester is 141, D digester is 172. They have 126 ARG subtypes in common, and some unique ones in their own. C represents digester C, while D is digester D.
 <img src="Figure/Figure3_venndiagram.png" width=200 height=160>
 4. Abundance of the ARGs subtypes in digester samples(the color intensity in each panel shows the ARGs/16s rRNA gene copy number, as indicators of the relative abundance of resistance genes within the bacterial population). For the visualization size limit, normalized abundance  greater than 0.2 were displayed. MLS denotes macrolide-lincosamide-streptogramin. 
