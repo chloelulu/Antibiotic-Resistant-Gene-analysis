@@ -14,4 +14,4 @@ Analysis workflow for ARGs identification on metagenomic data
 6. Distribution of the predicted proteins in the functional class of defense mechanisms in both digestions. Metagenomic data was annotated against the eggNOG database at a cutoff of E-value < 10−5. D represents the co-digestion, while C is mono-digestion.
 <img src="Figure/Figure6_eggNOGgene.png" width=800 height=400>
 7. Network analysis of the correlation between ARG groups and potential taxonomical origin(ARB) in the digester samples. (The colorful circle nodes stand for various ARG groups (each color stands for one ARG category), while the white squared nodes indicate diverse microorganisms, labeled as ‘genus’ in the legend. Microorganism nodes listed were all at genus/species/strain level. The node size shows the abundance of ARGs and microorganisms. A connection represents the correlation between the ARG group and potential ARB). C stands for mon-digestion, while D stands for co-digestion.
-<img src="Figure/Figure7_network.png" width=900 height=500>
+<img src="Figure/Figure7_network.png" width=900 height=400>
